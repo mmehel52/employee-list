@@ -2,12 +2,13 @@
   display: flex;
   flex-direction: row;
   margin-left: 40px;
-  margin-top: 5px;
+  margin-top: 1px;
 }
 
 .img-left img {
   border-radius: 50%;
-  width: 100px;
+  width: 80px;
+  height: 80px;
 }
 .right {
   margin-left: 10px;

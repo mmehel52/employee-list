@@ -4,7 +4,7 @@
   height: 80%;
   margin: auto;
   box-shadow: 10px 10px 10px 10px rgb(22, 22, 22);
-  margin-top: 50px;
+  margin-top: 20px;
 }
 .main-container h1,
 h3 {
@@ -15,10 +15,10 @@ h3 {
 button {
   background-color: rgb(22, 135, 100);
   padding: 10px 45px;
-  margin: 20px 10px 20px 80px;
+  margin: 10px 10px 20px 30px;
   border: none;
   box-shadow: 3px 3px 3px rgb(22, 22, 22);
   text-align: center;
-  font-size: 20px;
+  font-size: 15px;
   color: aliceblue;
 }
