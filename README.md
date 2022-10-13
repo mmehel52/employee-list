@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Fenerbahçe Team List
 👨‍💻 Description
 
 Project aims to use and learn  react 
