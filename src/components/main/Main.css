@@ -1,7 +1,7 @@
 .main-container {
   background-color: white;
-  width: 25%;
-  height: 80%;
+  width: 25rem;
+  height: 38rem;
   margin: auto;
   box-shadow: 10px 10px 10px 10px rgb(22, 22, 22);
   margin-top: 20px;
@@ -15,10 +15,18 @@ h3 {
 button {
   background-color: rgb(22, 135, 100);
   padding: 10px 45px;
-  margin: 10px 10px 20px 30px;
+  margin-left: 50px;
+  margin-top: 20px;
   border: none;
   box-shadow: 3px 3px 3px rgb(22, 22, 22);
   text-align: center;
   font-size: 15px;
   color: aliceblue;
+}
+button:hover {
+  background-color: rgba(26, 20, 20, 0.801);
+  color: white;
+}
+button:active {
+  transform: scale(90%);
 }
